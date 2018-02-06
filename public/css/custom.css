@@ -1,0 +1,36 @@
+body{background-color: #fff;}
+
+#menu{
+  background-color: #03a9f4;
+  color: #fff !important;
+  margin-bottom: 70px;
+
+}
+#menu a{
+  color: #fff !important;
+
+}
+
+.view-produto
+{
+  background-color: #fc7f0d !important;
+}
+.center
+{
+  text-align: center;
+}
+.fff
+{
+  color: #fff;
+}
+#valorAtualizado
+{
+  background-color: #673ab7;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.listProduct{
+     background-color: #673ab7 !important;
+     color: #fff !important;
+}
